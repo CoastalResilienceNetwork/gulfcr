@@ -1,0 +1,3 @@
+import{p as n,x as o,y as c}from"./index-BbMv5WR9.js";/*! All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+See https://github.com/Esri/calcite-design-system/blob/dev/LICENSE.md for details.
+v3.0.3 */const l={validationContainer:"validation-container"},p=({scale:a,status:i,id:s,icon:t,message:e})=>o`<div class=${n(l.validationContainer)}><calcite-input-message aria-live=polite .icon=${t} id=${s??c} .scale=${a} .status=${i}>${e}</calcite-input-message></div>`;export{p as m};
