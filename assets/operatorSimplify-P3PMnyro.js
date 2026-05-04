@@ -1,1 +1,0 @@
-import{ih as o,ge as s}from"./index-Jwt42nCl.js";const r=new o;function c(n,e,u){return r.execute(n,e,u,null)}function i(n,e,u){const t=r.executeMany(new s(n),e,u,null);return Array.from(t)}function f(n,e,u){return r.isSimpleAsFeature(n,e,u,null,null)}function a(){return r.supportsCurves()}export{i as o,a as s,c as t,f as u};
