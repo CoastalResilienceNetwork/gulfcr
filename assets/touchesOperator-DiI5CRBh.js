@@ -1,0 +1,1 @@
+import{t as n}from"./OperatorTouches-CA85_5lp.js";import{hN as o,hO as c}from"./index-PHIWLBa9.js";const s=new n;function u(t,r){const e=o(t);return s.execute(e.getGeometry(),c(r),e.getSpatialReference(),null)}export{u as execute};
