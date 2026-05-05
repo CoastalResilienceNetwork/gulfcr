@@ -1,1 +1,0 @@
-import{hN as r,iF as s,iG as o,hO as c,iH as u,iI as f,G as m}from"./index-PHIWLBa9.js";function G(a,i){const t=r(a),e=t.getSpatialReference();return s(o(t.getGeometry(),c(i),e),e)}function x(a,i){const[t,e]=u(a);return f(t,c(i),e,7).map(n=>s(n,e)).filter(m)}export{G as execute,x as executeMany};
